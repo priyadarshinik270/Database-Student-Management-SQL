@@ -81,17 +81,6 @@ FROM Students s
 JOIN Courses c ON s.Course_ID = c.Course_ID;
 ```
 
-### 🔹 Transaction Example
-
-```sql
-BEGIN TRANSACTION;
-
-INSERT INTO Students (Student_ID, Name, Email, Course_ID)
-VALUES (11, 'Arun', 'arun@example.com', 101);
-
-ROLLBACK;
-```
-
 ### 🔹 Trigger Example
 
 ```sql
