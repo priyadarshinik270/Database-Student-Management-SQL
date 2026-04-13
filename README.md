@@ -139,12 +139,6 @@ END;
 
 ---
 
-## 👩‍💻 Author
-
-Priyadarshini K
-
----
-
 ## 🌟 Project Description 
 
 A SQL-based Student Management System demonstrating CRUD operations, joins, transactions, triggers, and stored procedures with data sourced from Excel.
